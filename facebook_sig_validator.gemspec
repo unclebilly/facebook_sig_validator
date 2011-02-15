@@ -24,6 +24,7 @@ Gem::Specification.new do |s|
     "README.rdoc",
     "Rakefile",
     "VERSION",
+    "facebook_sig_validator.gemspec",
     "lib/facebook_sig_validator.rb",
     "test/helper.rb",
     "test/test_facebook_sig_validator.rb"
